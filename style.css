@@ -53,13 +53,41 @@ header ul li a {
     border-radius: 5px;
     padding-top: 10px;
 }
-
+.lef{
+    background-color:#1e93cc;
+    height: 300px;
+    width: 1400px;
+    color: white;
+}
 .for{
     height: 60px;
     text-align: center;
     margin: auto;
     padding-top: 40px;
 }
+
+.user{
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding-left: 150px;
+    padding-top: 50px;
+    
+    
+    
+}
+
+.for1{
+   height: 300px;
+   width: 400px;
+   float: right;
+   padding-right: 150px;
+   padding-top: 50px;
+   
+   
+   
+}
+
 
 .use{
     display: block;
@@ -74,6 +102,7 @@ header ul li a {
     text-align: center;
     margin: auto;
     padding-top: 40px;
+    clear: both;
 }
 
 .im img{
