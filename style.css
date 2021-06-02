@@ -108,3 +108,22 @@ header ul li a {
     margin-top: 10px;
 }
 
+footer{
+    height: 40px;
+    background-color: #333333;
+}
+
+footer ul li {
+    float: left;
+    margin-top: 10px;
+}
+footer ul li a {
+    color: white;
+    margin-right: 40px;
+    padding-right: 10px;
+}
+.foot{
+    color: white;
+    text-align: right;
+    padding-top: 15px;
+}
