@@ -57,8 +57,54 @@ header ul li a {
 }
 
 .use{
-
+    display: block;
     background-color: #1e93cc;
     height: 300px;
     color: white;
+  
 }
+
+.inn{
+    height: 60px;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.im img{
+    width: 1348px;
+}
+
+.bt{
+    height: 150px;
+}
+.button-2{
+    display: block;
+    background-color: rgb(21, 21, 88);
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+.button-3{
+    display: block;
+    background-color: rgb(21, 21, 88);
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
+.button-4{
+    display: block;
+    background-color: #e99002;
+    width: 150px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
+
