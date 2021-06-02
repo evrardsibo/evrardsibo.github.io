@@ -1,0 +1,64 @@
+/*tout*/
+*{
+    margin: 0%;
+    padding: 0ch;
+}
+a{
+    text-decoration: none;
+}
+
+/*header*/
+header{
+    height: 40px;
+    background-color: #333333;
+
+}
+header ul li {
+
+    float: left;
+    margin-top: 10px;
+}
+header ul li a {
+    color: white;
+    margin-right: 40px;
+    padding-right: 10px;
+}
+.data{
+    height: 300px;
+    color: white;
+    background-color: #1e93cc;
+}
+
+#plug{
+
+    text-align: center;
+    padding-top: 100px;
+}
+
+.button-1{
+
+    display: block;
+    width:200px;
+    height: 60px;
+    background-color: #e99002;
+    color: white;
+    text-align: center;
+    margin: auto;
+    border: solid 2px white;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+
+.for{
+    height: 60px;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+}
+
+.use{
+
+    background-color: #1e93cc;
+    height: 300px;
+    color: white;
+}
