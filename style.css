@@ -11,8 +11,10 @@ a{
 header{
     height: 40px;
     background-color: #333333;
+    
 
 }
+
 header ul li {
 
     float: left;
@@ -27,6 +29,9 @@ header ul li a {
     height: 300px;
     color: white;
     background-color: #1e93cc;
+    background-image: url(homme.jpg);
+    background-repeat: no-repeat;
+    
 }
 
 #plug{
